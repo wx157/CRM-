@@ -1,0 +1,3 @@
+安装完成python3.7版本后，发现运行程序闪退使用如命令
+ 1.pip install opencv-python
+ 2.如果还是出错的话，在重新运行一次pip install opencv-python命令
